@@ -1,6 +1,6 @@
 # main text of home
-name: 何宇清（Jack He）
-bio: 梦想这条路，我跪着走了好久，好不容易，却才走到这里。
+name: 何宇清
+bio: 共石资本合伙人，专注区块链；太极爱好者。
 
 # twitter summary info
 description: 何宇清先生的个人博客
@@ -12,9 +12,9 @@ picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
-resume-external: true
-resume-url: https://www.baidu.com/s?ie=UTF-8&wd=%E4%BD%95%E5%AE%87%E6%B8%85
+resume: false
+resume-external: false
+resume-url: 
 
 url: http://bbihyq.github.io
 # your url: http://USERNAME.github.io
@@ -40,7 +40,7 @@ twitter: bbihyq
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
-youtube: sinocollection
+# youtube: sinocollection
 # spotify: myspotify
 github: bbihyq
 # gitlab: mygitlab
@@ -51,18 +51,18 @@ github: bbihyq
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: bbihyq@gmail.com
+email: airwe@126.com
 
 authors:
     johndoe:
         name: 何宇清
-        bio: 梦想这条路，我跪着走了好久，好不容易，却才走到这里。
+        bio: 共石资本合伙人，专注区块链；太极爱好者。
         external-image: false
         picture: assets/images/profile.jpg
         twitter: bbihyq
     jamesfoster:
         name: 何宇清
-        bio: 梦想这条路，我跪着走了好久，好不容易，却才走到这里。
+        bio: 共石资本合伙人，专注区块链；太极爱好者。
         external-image: false
         picture: assets/images/james.jpg
         twitter: bbihyq
