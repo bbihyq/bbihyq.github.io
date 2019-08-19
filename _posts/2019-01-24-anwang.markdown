@@ -24,7 +24,7 @@ description: 暗网市场的未来进化
 第一个使用比特币支付的暗网市场，也是最为大家熟知的叫做丝绸之路。嗯，当然不是唐僧哥哥西天取经走的那个丝绸之路。是下图这货：
 
 
-![Screenshot] (https://raw.githubusercontent.com/bbihyq/bbihyq.github.io/master/assets/images/anwang.jpg)
+![Screenshot](https://raw.githubusercontent.com/bbihyq/bbihyq.github.io/master/assets/images/anwang.jpg)
 
 
 丝绸之路是暗网中最具“品牌价值”的电商，堪称暗黑版淘宝。你能想到的东西都有可能在里面找到。毒品、性奴、儿童色情、军火，下限是什么？不知道。
@@ -183,7 +183,7 @@ description: 暗网市场的未来进化
 
 
 
-暗网市场的未来发展
+## 暗网市场的未来发展
 
 
 该领域的未来发展可能会更关注客户的便利性。为了实现更好的用户体验，更多科技会被整合进暗网市场的新交易流程。比如信息服务会集成买卖双方的匿名通信、一体化的支付系统、藏货地点自动定位等功能。声誉系统会是下一个被集成的功能。
