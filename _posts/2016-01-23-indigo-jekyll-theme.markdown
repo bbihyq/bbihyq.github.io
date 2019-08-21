@@ -1,5 +1,5 @@
 ---
-title: ":ramen: Indigo, minimalist jekyll theme"
+title: "2019读书挑战计划——52周52本书"
 layout: post
 date: 2016-01-23 22:10
 tag: jekyll
@@ -13,23 +13,51 @@ author: johndoe
 externalLink: false
 ---
 
-![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)
+春节过完了，2019年第一季度也过去了大半，不免感叹逝者如斯。好多朋友开玩笑说，告诉你一个好消息，2019年中国经济是过去十年最差的一年；再告诉你一个坏消息，2019年是未来十年最好的一年。不管外界有多悲观，“该烧香烧香，该吃饭吃饭，该办的事，天打雷劈也得办。”
 
-Example of project - Indigo Minimalist Jekyll Template - [Demo](http://sergiokopplin.github.io/indigo/). This is a simple and minimalist template for Jekyll for those who likes to eat noodles.
+2019年六哥的年度计划里，要给自己的一个小挑战——2019读书挑战计划，52周52本书。如果感兴趣，你也可以试试。
 
----
+我的2019书单（前面一些部分是中国改革四君子之一、著名经济学家朱嘉明老师的春节阅读书单）：
 
-What has inside?
-
-- Gulp
-- BrowserSync
-- Stylus
-- SVG
-- Travis
-- No JS
-- [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F)
-
----
-
-[Check it out](http://sergiokopplin.github.io/indigo/) here.
-If you need some help, just [tell me](http://github.com/sergiokopplin/indigo/issues).
+1、《通胀螺旋》 张嘉璈
+2、《管理美元》 船桥洋一
+3、《时运变迁》 保罗·沃尔克 / 行天丰雄
+4、《大连接:社会网络是如何形成的以及对人类现实行为的影响》 克里斯塔基斯、富勒
+5、《变量:看见中国社会小趋势》 何帆
+6、《低欲望社》 大前研一
+7、《共同的生活》  茨维坦·托多罗夫
+8、《瑜伽师地论》 弥勒菩萨说 三藏法师玄奘奉诏译
+9、《贞穆堂明清家具撷珍》 邓雪松
+10、《寂静的春天》 蕾切尔·卡逊
+11、《宇宙的结构》 布莱恩·R.格林
+12、《资治通鉴》 司马光
+13、《看不见的大猩猩》 克里斯托弗·查布利斯、丹尼尔·西蒙斯
+14、《书话集》 朱嘉明
+15、《物理五千年》 朱恒足
+16、《论美国的民主》 托克维尔
+17、《超级合作者》 马丁·诺瓦克、罗杰·海菲尔德
+18、《通住奴役之路》 哈耶克
+19、《公民不服从》哈维尔
+20、《天朝的崩溃——鸦片战争再研究》 茅海建
+21、《致命的自负》 哈耶克
+22、《投资最重要的事》 霍华德·马克斯
+23、《安全边际》 塞思·卡拉曼
+34、《穷查理宝典》 查理 ·芒格
+35、《爱与数学》  爱德华·弗伦克尔
+36、《源泉》 安 . 兰德
+37、《流浪者之歌》 黑塞
+38、《费曼讲物理》 费曼
+39、《元认知：改变大脑的顽固思想》 大卫 ·迪绍夫
+40、《风格感觉：21世纪写作指南》  史蒂芬·平克
+41、《玻璃球游戏》  黑塞
+42、《非对称风险》 纳西姆 . 尼古拉斯 . 塔勒布
+43、《二十亿光年的孤独》 谷川俊太郎
+44、《瓦尔登湖》 梭罗
+45、《金融炼金术》索罗斯
+46、《中国重组：一个中国投资银行家的亲历与思考》 王世渝
+47、《神秘的量子生命》 吉姆· 艾尔·哈利利 / 约翰乔·麦克法登
+48、《奢侈品品牌管理》 米歇尔·舍瓦利耶
+49、《论奢侈》 让-诺埃尔·凯费洛
+50、《国家为什么会失败》 德隆·阿西莫格鲁 / 詹姆斯·罗宾逊
+51、《神秘的镜像神经元》 格雷戈里·希科克
+52、《上瘾五百年 : 烟、酒、咖啡和鸦片的历史》 戴维·考特莱特
